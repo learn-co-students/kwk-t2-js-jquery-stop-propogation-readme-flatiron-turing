@@ -88,4 +88,4 @@ Go ahead and comment out all the code in `js/script.js` except the code under th
 + [jQuery Docs](https://api.jquery.com/event.stoppropagation/)
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-stop-propogation-readme' title='Stop Propagation'>Stop Propagation</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Stop Propagation</p>
